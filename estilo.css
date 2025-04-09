@@ -26,6 +26,10 @@ section {
     height: 300px;
 }
 
+#pessoas{
+    margin-right: 10px;
+}
+
 
 .nav-link {
     color: #CB6D43;
